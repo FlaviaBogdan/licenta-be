@@ -1,1 +1,2 @@
-# licenta-be
+Licenta
+Learn java backend
